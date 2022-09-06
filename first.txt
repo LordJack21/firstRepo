@@ -1,4 +1,4 @@
-I addded a line at the top
-
 Heres is my new file
 It has some text
+
+I have added to the end of the file
